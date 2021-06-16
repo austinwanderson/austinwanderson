@@ -1,0 +1,5 @@
+- 👋 Hello World! I’m @austinwanderson
+- 💻 I'm a software developer coding mainly in Python and JavaScript.
+- ⛰ I specialize in working with Geographic Information Systems (GIS).
+- ⛓ Check out my work here: https://austinwayneanderson.com
+- 👨🏻‍✈️ Or connect with me on LinkedIn: https://www.linkedin.com/in/austinwanderson/
